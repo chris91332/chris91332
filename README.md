@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chris91332
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Chris@github.com
+- 👀 I’m interested in online project 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate with an opponent 
+- 📫 How to reach me; chris91332@gmail.com 
 
 <!---
 chris91332/chris91332 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
